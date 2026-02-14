@@ -1,0 +1,275 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CarnoHead
+  m_Mask: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: 24_Body_0.5_0_0
+    m_Weight: 0
+  - m_Path: 38_Eyes_1_0_0
+    m_Weight: 0
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Belly"
+    m_Weight: 0
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Belly/Belly_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Belly.001"
+    m_Weight: 0
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Belly.001/Collarbones.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Belly.001/Collarbones.L/Collarbones.L_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Belly.001/Collarbones.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Belly.001/Collarbones.R/Collarbones.R_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Gulp"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Gulp/Gulp_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001/Gulp.001"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001/Gulp.001/Gulp.001_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001/HeadC"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001/HeadC/HeadDown"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001/HeadC/HeadDown/HeadDown_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001/HeadC/HeadOCContr"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001/HeadC/HeadOCContr/HeadOCContr_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001/HeadC/HeadUp"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001/HeadC/HeadUp/HeadUp.001"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001/HeadC/HeadUp/HeadUp.001/HeadUp.001_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L"
+    m_Weight: 0
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.001.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.001.L/Fingers.006.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.001.L/Fingers.006.L/Fingers.007.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.001.L/Fingers.006.L/Fingers.007.L/Fingers.007.L_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.002.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.002.L/Fingers.002.L_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.003.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.003.L/Fingers.008.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.003.L/Fingers.008.L/Fingers.008.L_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.L/Fingers.004.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.L/Fingers.004.L/Fingers.005.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.L/Fingers.004.L/Fingers.005.L/Fingers.005.L_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/FoldPBC.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/FoldPBC.L/FoldPBC.L_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/SplitPBC.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/SplitPBC.L/SplitPBC.L_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R"
+    m_Weight: 0
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.001.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.001.R/Fingers.006.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.001.R/Fingers.006.R/Fingers.007.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.001.R/Fingers.006.R/Fingers.007.R/Fingers.007.R_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.002.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.002.R/Fingers.002.R_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.003.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.003.R/Fingers.008.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.003.R/Fingers.008.R/Fingers.008.R_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.R/Fingers.004.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.R/Fingers.004.R/Fingers.005.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.R/Fingers.004.R/Fingers.005.R/Fingers.005.R_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/FoldPBC.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/FoldPBC.R/FoldPBC.R_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/SplitPBC.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/SplitPBC.R/SplitPBC.R_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Groin"
+    m_Weight: 0
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Groin/Groin_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.L"
+    m_Weight: 0
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.L/PawR.001.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.L/PawR.001.L/PawR.002.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.L/PawR.001.L/PawR.002.L/PawR.003.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.L/PawR.001.L/PawR.002.L/PawR.003.L/PawR.004.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.L/PawR.001.L/PawR.002.L/PawR.003.L/PawR.004.L/PawR.005.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.L/PawR.001.L/PawR.002.L/PawR.003.L/PawR.004.L/PawR.005.L/PawR.006.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.L/PawR.001.L/PawR.002.L/PawR.003.L/PawR.004.L/PawR.005.L/PawR.006.L/PawR.006.L_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.R"
+    m_Weight: 0
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.R/PawR.001.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.R/PawR.001.R/PawR.002.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.R/PawR.001.R/PawR.002.R/PawR.003.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.R/PawR.001.R/PawR.002.R/PawR.003.R/PawR.004.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.R/PawR.001.R/PawR.002.R/PawR.003.R/PawR.004.R/PawR.005.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.R/PawR.001.R/PawR.002.R/PawR.003.R/PawR.004.R/PawR.005.R/PawR.006.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.R/PawR.001.R/PawR.002.R/PawR.003.R/PawR.004.R/PawR.005.R/PawR.006.R/PawR.006.R_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Tale"
+    m_Weight: 0
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Tale/Tale.001"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Tale/Tale.001/Tale.002"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Tale/Tale.001/Tale.002/Tale.003"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Tale/Tale.001/Tale.002/Tale.003/Tale.004"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Tale/Tale.001/Tale.002/Tale.003/Tale.004/Tale.005"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Tale/Tale.001/Tale.002/Tale.003/Tale.004/Tale.005/Tale.006"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Tale/Tale.001/Tale.002/Tale.003/Tale.004/Tale.005/Tale.006/Tale.006_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Tale.007"
+    m_Weight: 0
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Tale.007/Tale.007_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L"
+    m_Weight: 0
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.009.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.009.L/Fingers.016.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.009.L/Fingers.016.L/Fingers.017.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.009.L/Fingers.016.L/Fingers.017.L/Fingers.017.L_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.010.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.010.L/Fingers.014.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.010.L/Fingers.014.L/Fingers.015.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.010.L/Fingers.014.L/Fingers.015.L/Fingers.015.L_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.011.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.011.L/Fingers.012.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.011.L/Fingers.012.L/Fingers.013"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.011.L/Fingers.012.L/Fingers.013/Fingers.013_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/FoldPRC.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/FoldPRC.L/FoldPRC.L_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/SplitPRC.L"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/SplitPRC.L/SplitPRC.L_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R"
+    m_Weight: 0
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.009.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.009.R/Fingers.016.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.009.R/Fingers.016.R/Fingers.017.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.009.R/Fingers.016.R/Fingers.017.R/Fingers.017.R_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.010.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.010.R/Fingers.014.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.010.R/Fingers.014.R/Fingers.015.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.010.R/Fingers.014.R/Fingers.015.R/Fingers.015.R_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.011.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.011.R/Fingers.012.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.011.R/Fingers.012.R/Fingers.012.R.001"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.011.R/Fingers.012.R/Fingers.012.R.001/Fingers.012.R.001_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/FoldPRC.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/FoldPRC.R/FoldPRC.R_end"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/SplitPRC.R"
+    m_Weight: 1
+  - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/SplitPRC.R/SplitPRC.R_end"
+    m_Weight: 1
