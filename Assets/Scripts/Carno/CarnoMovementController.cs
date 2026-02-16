@@ -1,3 +1,4 @@
+using Character;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -19,40 +20,47 @@ public class CarnoMovementController : MonoBehaviour
         private CharacterController cc;
         private PlayerInput playerInput;
 
-        private InputAction moveAction;
-        private InputAction jumpAction;
-        private InputAction sprintAction;
+        private InputAction _moveAction;
+        private InputAction _jumpAction;
+        private InputAction _sprintAction;
+        private InputAction _attackAction;
+        private InputAction _altAction;
 
-        private Vector3 velocity;
-        
-        private AnimationController animDriver;
+        private Vector3 _velocity;
+
+        private CarnoAnimationController _driver;
 
 
         void Awake()
         {
+            _driver = GetComponent<CarnoAnimationController>();
             cc = GetComponent<CharacterController>();
             playerInput = GetComponent<PlayerInput>();
 
             // берём экшены по именам из PlayerControls
-            moveAction = playerInput.actions["Move"];
-            jumpAction = playerInput.actions["Jump"];
-            sprintAction = playerInput.actions["Sprint"];
-            
-            animDriver = GetComponent<AnimationController>();
+            _moveAction = playerInput.actions["Move"];
+            _jumpAction = playerInput.actions["Jump"];
+            _sprintAction = playerInput.actions["Sprint"];
+            _attackAction =  playerInput.actions["Attack"];
+            _altAction = playerInput.actions["AltAction"];
         }
 
         void OnEnable()
         {
-            moveAction.Enable();
-            jumpAction.Enable();
-            sprintAction.Enable();
+            _moveAction.Enable();
+            _jumpAction.Enable();
+            _sprintAction.Enable();
+            _attackAction.Enable();
+            _altAction.Enable();
         }
 
         void OnDisable()
         {
-            moveAction.Disable();
-            jumpAction.Disable();
-            sprintAction.Disable();
+            _moveAction.Disable();
+            _jumpAction.Disable();
+            _sprintAction.Disable();
+            _attackAction.Disable();
+            _altAction.Disable();
         }
 
         void Update()
@@ -60,13 +68,13 @@ public class CarnoMovementController : MonoBehaviour
             if (!cameraTransform) return;
 
             // Ground
-            if (cc.isGrounded && velocity.y < 0f)
-                velocity.y = -2f;
+            if (cc.isGrounded && _velocity.y < 0f)
+                _velocity.y = -2f;
 
             // Input
-            Vector2 mv = moveAction.ReadValue<Vector2>();
+            Vector2 mv = _moveAction.ReadValue<Vector2>();
             Vector3 inputDir = new Vector3(mv.x, 0f, mv.y);
-            bool sprint = sprintAction.IsPressed();
+            bool sprint = _sprintAction.IsPressed();
             float speed = sprint ? sprintSpeed : moveSpeed;
 
             Vector3 moveDirWorld = Vector3.zero;
@@ -86,21 +94,23 @@ public class CarnoMovementController : MonoBehaviour
                 transform.rotation = Quaternion.Slerp(transform.rotation, targetRot, rotationSpeed * Time.deltaTime);
             }
 
-            // Jump
-            if (cc.isGrounded && jumpAction.WasPressedThisFrame())
-            {
-                velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
+            // Gravity
+            _velocity.y += gravity * Time.deltaTime;
+            
+            //Bite
+            if (_altAction.WasReleasedThisFrame())
+                _driver.SetAltAction(false);
+            
+            if (_altAction.WasPressedThisFrame())
+                _driver.SetAltAction(true);
 
-                // если ты сделал TriggerJump через драйвер:
-                var animDriver = GetComponent<AnimationController>();
-                if (animDriver) animDriver.TriggerJump();
+            if (_attackAction.WasPressedThisFrame())
+            {
+                _driver.TriggerBite();
             }
 
-            // Gravity
-            velocity.y += gravity * Time.deltaTime;
-
             // ONE move per frame (горизонталь + вертикаль вместе)
-            Vector3 motion = moveDirWorld * speed + Vector3.up * velocity.y;
+            Vector3 motion = moveDirWorld * speed + Vector3.up * _velocity.y;
             cc.Move(motion * Time.deltaTime);
         }
     }

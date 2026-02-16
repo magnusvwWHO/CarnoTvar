@@ -1,52 +1,55 @@
-using Character;
 using UnityEngine;
 
-public class AnimationController : MonoBehaviour
+namespace Character
 {
-    private static readonly int Speed = Animator.StringToHash("Speed");
-    private static readonly int IsGrounded = Animator.StringToHash("IsGrounded");
-    private static readonly int YVelocity = Animator.StringToHash("YVelocity");
-    private static readonly int Jump = Animator.StringToHash("Jump");
-    public CharacterController characterController;
-    public Animator animator;
-
-    [Header("Take from movement script")]
-    public ThirdPersonController movement; // перетащи сюда компонент движения
-
-    [Header("Tuning")]
-    public float speedSmooth = 12f;
-
-    private float _smoothedSpeed01;
-
-    void Awake()
+    public class AnimationController : MonoBehaviour
     {
-        if (!characterController) characterController = GetComponent<CharacterController>();
-        if (!animator) animator = GetComponentInChildren<Animator>();
-        if (!movement) movement = GetComponent<ThirdPersonController>();
+        private static readonly int Speed = Animator.StringToHash("Speed");
+        private static readonly int IsGrounded = Animator.StringToHash("IsGrounded");
+        private static readonly int YVelocity = Animator.StringToHash("YVelocity");
+        private static readonly int Jump = Animator.StringToHash("Jump");
+        private static readonly int Bite = Animator.StringToHash("Bite");
+        public CharacterController characterController;
+        public Animator animator;
+
+        [Header("Take from movement script")]
+        public ThirdPersonController movement; // перетащи сюда компонент движения
+
+        [Header("Tuning")]
+        public float speedSmooth = 12f;
+
+        private float _smoothedSpeed01;
+
+        void Awake()
+        {
+            if (!characterController) characterController = GetComponent<CharacterController>();
+            if (!animator) animator = GetComponentInChildren<Animator>();
+            if (!movement) movement = GetComponent<ThirdPersonController>();
+        }
+
+        void Update()
+        {
+            if (!characterController || !animator || !movement) return;
+
+            // горизонтальная скорость
+            Vector3 v = characterController.velocity;
+            v.y = 0f;
+            float speed = v.magnitude;
+
+            // нормализация в 0..1:
+            // 0 = стоим, moveSpeed = примерно 0.5, sprintSpeed = 1.0
+            float speed01;
+            if (speed <= 0.01f) speed01 = 0f;
+            else if (speed < movement.moveSpeed) speed01 = Mathf.InverseLerp(0f, movement.moveSpeed, speed) * 0.5f;
+            else speed01 = Mathf.InverseLerp(movement.moveSpeed, movement.sprintSpeed, speed) * 0.5f + 0.5f;
+
+            _smoothedSpeed01 = Mathf.Lerp(_smoothedSpeed01, speed01, speedSmooth * Time.deltaTime);
+
+            animator.SetFloat(Speed, _smoothedSpeed01);
+            animator.SetBool(IsGrounded, characterController.isGrounded);
+            animator.SetFloat(YVelocity, characterController.velocity.y);
+        }
+
+        public void TriggerJump() => animator.SetTrigger(Jump);
     }
-
-    void Update()
-    {
-        if (!characterController || !animator || !movement) return;
-
-        // горизонтальная скорость
-        Vector3 v = characterController.velocity;
-        v.y = 0f;
-        float speed = v.magnitude;
-
-        // нормализация в 0..1:
-        // 0 = стоим, moveSpeed = примерно 0.5, sprintSpeed = 1.0
-        float speed01;
-        if (speed <= 0.01f) speed01 = 0f;
-        else if (speed < movement.moveSpeed) speed01 = Mathf.InverseLerp(0f, movement.moveSpeed, speed) * 0.5f;
-        else speed01 = Mathf.InverseLerp(movement.moveSpeed, movement.sprintSpeed, speed) * 0.5f + 0.5f;
-
-        _smoothedSpeed01 = Mathf.Lerp(_smoothedSpeed01, speed01, speedSmooth * Time.deltaTime);
-
-        animator.SetFloat(Speed, _smoothedSpeed01);
-        animator.SetBool(IsGrounded, characterController.isGrounded);
-        animator.SetFloat(YVelocity, characterController.velocity.y);
-    }
-
-    public void TriggerJump() => animator.SetTrigger(Jump);
 }

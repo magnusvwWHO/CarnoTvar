@@ -4,6 +4,8 @@ public class CarnoAnimationController : MonoBehaviour
 {
     private static readonly int Speed = Animator.StringToHash("Speed");
     private static readonly int HeadTurningAngle = Animator.StringToHash("HeadTurningAngle");
+    private static readonly int Bite = Animator.StringToHash("Bite");
+    private static readonly int AltAction = Animator.StringToHash("AltButton");
     public CharacterController characterController;
     public Animator animator;
 
@@ -42,4 +44,8 @@ public class CarnoAnimationController : MonoBehaviour
 
         animator.SetFloat(Speed, _smoothedSpeed01);
     }
+    
+    public void TriggerBite() => animator.SetTrigger(Bite);
+    
+    public void SetAltAction(bool value) => animator.SetBool(AltAction, value);
 }

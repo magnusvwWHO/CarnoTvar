@@ -3,7 +3,17 @@ guid: 8514378b7e9b95449955af8dda317268
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24_Body_0.5_0_0
+    second: {fileID: 2100000, guid: 8d8a30fc44bbb3c4dbcbc4d0dbc2f2b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 38_Eyes_1_0_0
+    second: {fileID: 2100000, guid: 019223e153d3a444896d1115f448e909, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -29,7 +39,994 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      internalID: -3100369314251171874
+      firstFrame: 0
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Bite "
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Bite "
+      internalID: 930203226995433223
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Bite Second"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Bite Second"
+      internalID: 1493865675176920153
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Bite Stand"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Bite Stand"
+      internalID: -5252317321372128475
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|FFoldPBC"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|FFoldPBC"
+      internalID: 2831632500530532291
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|FFoldPRCL"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|FFoldPRCL"
+      internalID: 3206057646644590420
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|FSlitPBC"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|FSlitPBC"
+      internalID: -6598884881599343111
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|FSplitPRC"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|FSplitPRC"
+      internalID: 8721650178885015535
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|HDown"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|HDown"
+      internalID: 7385203141272889573
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|HeadUD"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|HeadUD"
+      internalID: 1888097445240021111
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|HLight"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|HLight"
+      internalID: 8785440784528765767
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|HRight"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|HRight"
+      internalID: -5240097169920747025
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|HUp"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|HUp"
+      internalID: 5117958064109604391
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Idle"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Idle"
+      internalID: 340687121774425811
+      firstFrame: 0
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0.01
+      loop: 0
+      hasAdditiveReferencePose: 1
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1.6400001
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Long Idle"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Long Idle"
+      internalID: 3680908941299368192
+      firstFrame: 0
+      lastFrame: 260
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Run"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Run"
+      internalID: 395390805935382647
+      firstFrame: 0
+      lastFrame: 43
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: -1.5
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Sit"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Sit"
+      internalID: 9096931471815664401
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Sit Idle"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Sit Idle"
+      internalID: -6154008195831059068
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 24_Body_0.5_0_0
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Belly"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Belly/Belly_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Belly.001"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Belly.001/Collarbones.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Belly.001/Collarbones.L/Collarbones.L_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Belly.001/Collarbones.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Belly.001/Collarbones.R/Collarbones.R_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Gulp"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Gulp/Gulp_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001/Gulp.001"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001/Gulp.001/Gulp.001_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001/HeadC"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001/HeadC/HeadDown"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001/HeadC/HeadDown/HeadDown_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001/HeadC/HeadOCContr"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001/HeadC/HeadOCContr/HeadOCContr_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001/HeadC/HeadUp"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001/HeadC/HeadUp/HeadUp.001"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Neck/Neck.001/HeadC/HeadUp/HeadUp.001/HeadUp.001_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.001.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.001.L/Fingers.006.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.001.L/Fingers.006.L/Fingers.007.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.001.L/Fingers.006.L/Fingers.007.L/Fingers.007.L_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.002.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.002.L/Fingers.002.L_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.003.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.003.L/Fingers.008.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.003.L/Fingers.008.L/Fingers.008.L_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.L/Fingers.004.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.L/Fingers.004.L/Fingers.005.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/Fingers.L/Fingers.004.L/Fingers.005.L/Fingers.005.L_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/FoldPBC.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/FoldPBC.L/FoldPBC.L_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/SplitPBC.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.L/PawB.001.L/PawB.002.L/SplitPBC.L/SplitPBC.L_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.001.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.001.R/Fingers.006.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.001.R/Fingers.006.R/Fingers.007.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.001.R/Fingers.006.R/Fingers.007.R/Fingers.007.R_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.002.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.002.R/Fingers.002.R_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.003.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.003.R/Fingers.008.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.003.R/Fingers.008.R/Fingers.008.R_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.R/Fingers.004.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.R/Fingers.004.R/Fingers.005.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/Fingers.R/Fingers.004.R/Fingers.005.R/Fingers.005.R_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/FoldPBC.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/FoldPBC.R/FoldPBC.R_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/SplitPBC.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/PawB.R/PawB.001.R/PawB.002.R/SplitPBC.R/SplitPBC.R_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Groin"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Groin/Groin_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.L/PawR.001.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.L/PawR.001.L/PawR.002.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.L/PawR.001.L/PawR.002.L/PawR.003.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.L/PawR.001.L/PawR.002.L/PawR.003.L/PawR.004.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.L/PawR.001.L/PawR.002.L/PawR.003.L/PawR.004.L/PawR.005.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.L/PawR.001.L/PawR.002.L/PawR.003.L/PawR.004.L/PawR.005.L/PawR.006.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.L/PawR.001.L/PawR.002.L/PawR.003.L/PawR.004.L/PawR.005.L/PawR.006.L/PawR.006.L_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.R/PawR.001.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.R/PawR.001.R/PawR.002.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.R/PawR.001.R/PawR.002.R/PawR.003.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.R/PawR.001.R/PawR.002.R/PawR.003.R/PawR.004.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.R/PawR.001.R/PawR.002.R/PawR.003.R/PawR.004.R/PawR.005.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.R/PawR.001.R/PawR.002.R/PawR.003.R/PawR.004.R/PawR.005.R/PawR.006.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/PawR.R/PawR.001.R/PawR.002.R/PawR.003.R/PawR.004.R/PawR.005.R/PawR.006.R/PawR.006.R_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Tale"
+        weight: 0
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Tale/Tale.001"
+        weight: 0
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Tale/Tale.001/Tale.002"
+        weight: 0
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Tale/Tale.001/Tale.002/Tale.003"
+        weight: 0
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Tale/Tale.001/Tale.002/Tale.003/Tale.004"
+        weight: 0
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Tale/Tale.001/Tale.002/Tale.003/Tale.004/Tale.005"
+        weight: 0
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Tale/Tale.001/Tale.002/Tale.003/Tale.004/Tale.005/Tale.006"
+        weight: 0
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Tale/Tale.001/Tale.002/Tale.003/Tale.004/Tale.005/Tale.006/Tale.006_end"
+        weight: 0
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Tale.007"
+        weight: 0
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Tale.007/Tale.007_end"
+        weight: 0
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.009.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.009.L/Fingers.016.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.009.L/Fingers.016.L/Fingers.017.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.009.L/Fingers.016.L/Fingers.017.L/Fingers.017.L_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.010.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.010.L/Fingers.014.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.010.L/Fingers.014.L/Fingers.015.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.010.L/Fingers.014.L/Fingers.015.L/Fingers.015.L_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.011.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.011.L/Fingers.012.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.011.L/Fingers.012.L/Fingers.013"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/Fingers.011.L/Fingers.012.L/Fingers.013/Fingers.013_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/FoldPRC.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/FoldPRC.L/FoldPRC.L_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/SplitPRC.L"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.L/SplitPRC.L/SplitPRC.L_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.009.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.009.R/Fingers.016.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.009.R/Fingers.016.R/Fingers.017.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.009.R/Fingers.016.R/Fingers.017.R/Fingers.017.R_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.010.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.010.R/Fingers.014.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.010.R/Fingers.014.R/Fingers.015.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.010.R/Fingers.014.R/Fingers.015.R/Fingers.015.R_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.011.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.011.R/Fingers.012.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.011.R/Fingers.012.R/Fingers.012.R.001"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/Fingers.011.R/Fingers.012.R/Fingers.012.R.001/Fingers.012.R.001_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/FoldPRC.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/FoldPRC.R/FoldPRC.R_end"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/SplitPRC.R"
+        weight: 1
+      - path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/FootC.R/SplitPRC.R/SplitPRC.R_end"
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Stand Up"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Stand Up"
+      internalID: -4303575662098943142
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Turn Left"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Turn Left"
+      internalID: -5303824313053674075
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Turn Right"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Turn Right"
+      internalID: 685551650262337366
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Walk"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|Walk"
+      internalID: -1087898938911880601
+      firstFrame: 0
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: -0.64
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|\u041F\u0443\u0441\u0442\u044B\u0448\u043A\u0430.006Action"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|\u041F\u0443\u0441\u0442\u044B\u0448\u043A\u0430.006Action"
+      internalID: -2483155796094419947
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|\u041F\u0443\u0441\u0442\u044B\u0448\u043A\u0430.007Action"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|\u041F\u0443\u0441\u0442\u044B\u0448\u043A\u0430.007Action"
+      internalID: 2028009129212063405
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|\u041F\u0443\u0441\u0442\u044B\u0448\u043A\u0430.008Action"
+      takeName: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|\u041F\u0443\u0441\u0442\u044B\u0448\u043A\u0430.008Action"
+      internalID: 2748271588795546223
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 0
   meshes:
     lODScreenPercentages: []
@@ -100,7 +1097,7 @@ ModelImporter:
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
+  avatarSetup: 1
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   importBlendShapeDeformPercent: 1
   remapMaterialsIfMaterialImportModeIsNone: 0

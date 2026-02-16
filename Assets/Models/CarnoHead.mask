@@ -16,23 +16,23 @@ AvatarMask:
   - m_Path: 38_Eyes_1_0_0
     m_Weight: 0
   - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430"
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base"
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT"
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body"
     m_Weight: 1
   - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001"
     m_Weight: 1
   - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Belly"
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Belly/Belly_end"
     m_Weight: 1
   - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002"
     m_Weight: 1
   - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Belly.001"
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Belly.001/Collarbones.L"
     m_Weight: 1
   - m_Path: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430/Base/BodyCT/Body/Body.001/Body.002/Belly.001/Collarbones.L/Collarbones.L_end"
