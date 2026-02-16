@@ -1,0 +1,2059 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HeadMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/MainController.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/BFootRot.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/BFootRot.L/BFootRot.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/BFootSup1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/BFootSup1.L/BFootSup1.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/BFootSup2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/BFootSup2.L/BSup2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/BFootSup2.L/BSup2.L/BSup2.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/BFootSup3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/BFootSup3.L/BSup1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/BFootSup3.L/BSup1.L/BSup1.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/Toe5.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/Toe5.L/Claw9.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/Toe5.L/Claw9.L/Claw10.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/Toe5.L/Claw9.L/Claw10.L/Claw10.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/Toe6.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/Toe6.L/Claw11.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/Toe6.L/Claw11.L/Claw12.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/Toe6.L/Claw11.L/Claw12.L/Claw12.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/Toe7.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/Toe7.L/Claw13.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/Toe7.L/Claw13.L/Claw14.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/Toe7.L/Claw13.L/Claw14.L/Claw14.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/Toe8.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/Toe8.L/Claw15.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/Toe8.L/Claw15.L/Claw16.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/Ankle.L/BFoot.L/Toe8.L/Claw15.L/Claw16.L/Claw16.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/KneePoint.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.L/KneePoint.L/KneePoint.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/BFootRot.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/BFootRot.R/BFootRot.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/BFootSup1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/BFootSup1.R/BFootSup1.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/BFootSup2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/BFootSup2.R/BSup2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/BFootSup2.R/BSup2.R/BSup2.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/BFootSup3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/BFootSup3.R/BSup1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/BFootSup3.R/BSup1.R/BSup1.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/Toe5.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/Toe5.R/Claw9.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/Toe5.R/Claw9.R/Claw10.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/Toe5.R/Claw9.R/Claw10.R/Claw10.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/Toe6.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/Toe6.R/Claw11.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/Toe6.R/Claw11.R/Claw12.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/Toe6.R/Claw11.R/Claw12.R/Claw12.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/Toe7.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/Toe7.R/Claw13.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/Toe7.R/Claw13.R/Claw14.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/Toe7.R/Claw13.R/Claw14.R/Claw14.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/Toe8.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/Toe8.R/Claw15.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/Toe8.R/Claw15.R/Claw16.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/Ankle.R/BFoot.R/Toe8.R/Claw15.R/Claw16.R/Claw16.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/KneePoint.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BFootIK.R/KneePoint.R/KneePoint.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Chest.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Chest.1/Chest.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Chest.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Chest.L/Chest.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Chest.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Chest.R/Chest.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1
+    m_Weight: 1
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/BigEar2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/BigEar2.L/BegEar2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/BigEar2.L/BegEar2.L/BegEar2.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/BigEar2.L/bigEarMid1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/BigEar2.L/bigEarMid1.L/BigEar1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/BigEar2.L/bigEarMid1.L/BigEar1.L/BigEar1.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/BigEar2.L/bigEarMid1.L/BigEar3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/BigEar2.L/bigEarMid1.L/BigEar3.L/BigEarTip1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/BigEar2.L/bigEarMid1.L/BigEar3.L/BigEarTip1.L/BigEarTip1.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/BigEar2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/BigEar2.R/BegEar2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/BigEar2.R/BegEar2.R/BegEar2.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/BigEar2.R/bigEarMid1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/BigEar2.R/bigEarMid1.R/BigEar1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/BigEar2.R/bigEarMid1.R/BigEar1.R/BigEar1.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/BigEar2.R/bigEarMid1.R/BigEar3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/BigEar2.R/bigEarMid1.R/BigEar3.R/BigEarTip1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/BigEar2.R/bigEarMid1.R/BigEar3.R/BigEarTip1.R/BigEarTip1.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Blink.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Blink.1/Blink.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Blink.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Blink.L/Blink.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Blink.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Blink.R/Blink.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.134.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.134.L/Stretch4.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.134.L/Stretch4.L/Stretch4.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.134.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.134.R/Stretch4.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.134.R/Stretch4.R/Stretch4.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.152.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.152.L/Stretch3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.152.L/Stretch3.L/Bone.162.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.152.L/Stretch3.L/Bone.162.L/Bone.162.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.152.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.152.R/Stretch3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.152.R/Stretch3.R/Bone.162.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.152.R/Stretch3.R/Bone.162.R/Bone.162.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.153.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.153.L/Stretch2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.153.L/Stretch2.L/Bone.160.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.153.L/Stretch2.L/Bone.160.L/Bone.160.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.153.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.153.R/Stretch2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.153.R/Stretch2.R/Bone.160.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.153.R/Stretch2.R/Bone.160.R/Bone.160.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.154.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.154.L/Stretch1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.154.L/Stretch1.L/Bone.158.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.154.L/Stretch1.L/Bone.158.L/Bone.158.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.154.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.154.R/Stretch1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.154.R/Stretch1.R/Bone.158.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.154.R/Stretch1.R/Bone.158.R/Bone.158.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.157.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.157.L/Stretch1.L.001.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.157.L/Stretch1.L.001.L/Bone.172.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.157.L/Stretch1.L.001.L/Bone.172.L/Bone.172.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.157.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.157.R/Stretch1.L.001.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.157.R/Stretch1.L.001.R/Bone.172.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.157.R/Stretch1.L.001.R/Bone.172.R/Bone.172.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.159.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.159.L/Stretch2.L.001.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.159.L/Stretch2.L.001.L/Bone.171.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.159.L/Stretch2.L.001.L/Bone.171.L/Bone.171.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.159.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.159.R/Stretch2.L.001.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.159.R/Stretch2.L.001.R/Bone.171.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.159.R/Stretch2.L.001.R/Bone.171.R/Bone.171.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.161.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.161.L/Stretch3.L.001.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.161.L/Stretch3.L.001.L/Bone.170.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.161.L/Stretch3.L.001.L/Bone.170.L/Bone.170.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.161.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.161.R/Stretch3.L.001.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.161.R/Stretch3.L.001.R/Bone.170.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.161.R/Stretch3.L.001.R/Bone.170.R/Bone.170.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.169.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.169.L/Stretch4.L.001.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.169.L/Stretch4.L.001.L/Stretch4.L.001.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.169.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.169.R/Stretch4.L.001.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Bone.169.R/Stretch4.L.001.R/Stretch4.L.001.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Brow1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Brow1.L/Bone.168.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Brow1.L/Bone.168.L/Bone.168.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Brow1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Brow1.R/Bone.168.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Brow1.R/Bone.168.R/Bone.168.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Brow2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Brow2.L/Brow2.L.001.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Brow2.L/Brow2.L.001.L/Brow2.L.001.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Brow2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Brow2.R/Brow2.L.001.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Brow2.R/Brow2.L.001.R/Brow2.L.001.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Brow3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Brow3.L/Brow3.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Brow3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Brow3.R/Brow3.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek1.L/Bone.173.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek1.L/Bone.173.L/Bone.173.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek1.R/Bone.173.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek1.R/Bone.173.R/Bone.173.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek2.L/Brow2.L.003.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek2.L/Brow2.L.003.L/Brow2.L.003.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek2.R/Brow2.L.003.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek2.R/Brow2.L.003.R/Brow2.L.003.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek3.L/Brow3.L.002.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek3.L/Brow3.L.002.L/Brow3.L.002.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek3.R/Brow3.L.002.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek3.R/Brow3.L.002.R/Brow3.L.002.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek4.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek4.L/Cheek4.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek4.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek4.R/Cheek4.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek5.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek5.L/bbone.L.003.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek5.L/bbone.L.003.L/bbone.L.003.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek5.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek5.R/bbone.L.003.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek5.R/bbone.L.003.R/bbone.L.003.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek6.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek6.L/bbone.L.001.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek6.L/bbone.L.001.L/bbone.L.001.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek6.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek6.R/bbone.L.001.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Cheek6.R/bbone.L.001.R/bbone.L.001.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp1.L/Damp1.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp1.R/Damp1.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp2.L/Damp2.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp2.R/Damp2.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp3.L/Damp3.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp3.R/Damp3.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp4.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp4.L/Damp4.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp4.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp4.R/Damp4.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp5.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp5.L/Damp5.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp5.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp5.R/Damp5.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp6.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp6.L/Damp6.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp6.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp6.R/Damp6.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp7.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp7.L/Damp7.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp7.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp7.R/Damp7.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp8.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp8.L/Damp8.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp8.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Damp8.R/Damp8.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Dilate.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Dilate.1/Dilate.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Eye.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Eye.L/Eye.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Eye.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Eye.R/Eye.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/EyeControl.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/EyeControl.1/EyeLook.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/EyeControl.1/EyeLook.L/EyeLook.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/EyeControl.1/EyeLook.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/EyeControl.1/EyeLook.R/EyeLook.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Flare.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Flare.1/Flare.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.003.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.003.L/hSup.003.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.3.L/hSup.2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.3.L/hSup.2.L/hSup.1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.3.L/hSup.2.L/hSup.1.L/hSup1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.3.L/hSup.2.L/hSup.1.L/hSup1.L/hSup2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.3.L/hSup.2.L/hSup.1.L/hSup1.L/hSup2.L/hSup2.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.3.L/hSup.2.L/hSup.1.L/hSup1.L/hSup3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.3.L/hSup.2.L/hSup.1.L/hSup1.L/hSup3.L/hSup3.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.003.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.003.R/hSup.003.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.3.R/hSup.2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.3.R/hSup.2.R/hSup.1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.3.R/hSup.2.R/hSup.1.R/hSup1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.3.R/hSup.2.R/hSup.1.R/hSup1.R/hSup2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.3.R/hSup.2.R/hSup.1.R/hSup1.R/hSup2.R/hSup2.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.3.R/hSup.2.R/hSup.1.R/hSup1.R/hSup3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.3.R/hSup.2.R/hSup.1.R/hSup1.R/hSup3.R/hSup3.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.004.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.004.L/hSup.004.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.004.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.004.R/hSup.004.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.005.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.005.L/hSup.005.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.005.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup.005.R/hSup.005.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup2.L.001.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup2.L.001.L/hSup2.L.001.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup2.L.001.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/hSup2.L.001.R/hSup2.L.001.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/jawSup.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/jawSup.1/jawSup.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/jawSup.2
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/jawSup.2/jawSup.2_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip.15
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip.15/Lip15.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip.15/Lip15.L/Lip15.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip.15/Lip15.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip.15/Lip15.R/Lip15.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip10.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip10.L/Bone.142.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip10.L/Bone.142.L/Bone.142.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip10.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip10.R/Bone.142.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip10.R/Bone.142.R/Bone.142.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip11.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip11.L/Bone.143.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip11.L/Bone.143.L/Bone.143.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip11.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip11.R/Bone.143.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip11.R/Bone.143.R/Bone.143.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip12.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip12.L/Bone.165.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip12.L/Bone.165.L/Bone.165.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip12.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip12.R/Bone.165.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip12.R/Bone.165.R/Bone.165.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip13.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip13.L/Bone.167.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip13.L/Bone.167.L/Bone.167.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip13.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip13.R/Bone.167.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip13.R/Bone.167.R/Bone.167.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip14.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip14.L/Lip6.L.003.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip14.L/Lip6.L.003.L/Lip6.L.003.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip14.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip14.R/Lip6.L.003.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Jaw.2/Lip14.R/Lip6.L.003.R/Lip6.L.003.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/JawSup1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/JawSup1.L/JawSup2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/JawSup1.L/JawSup2.L/JawSup3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/JawSup1.L/JawSup2.L/JawSup3.L/JawSup3.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/JawSup1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/JawSup1.R/JawSup2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/JawSup1.R/JawSup2.R/JawSup3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/JawSup1.R/JawSup2.R/JawSup3.R/JawSup3.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SideEar2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SideEar2.L/SideEar1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SideEar2.L/SideEar1.L/SideEar1.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SideEar2.L/SideEar3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SideEar2.L/SideEar3.L/SideEarEnd.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SideEar2.L/SideEar3.L/SideEarEnd.L/SideEarEnd.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SideEar2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SideEar2.R/SideEar1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SideEar2.R/SideEar1.R/SideEar1.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SideEar2.R/SideEar3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SideEar2.R/SideEar3.R/SideEarEnd.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SideEar2.R/SideEar3.R/SideEarEnd.R/SideEarEnd.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SmallEar1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SmallEar1.L/SmallEar2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SmallEar1.L/SmallEar2.L/SmallEarEnd.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SmallEar1.L/SmallEar2.L/SmallEarEnd.L/SmallEarEnd.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SmallEar1.L/SmallEar3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SmallEar1.L/SmallEar3.L/SmallEar3.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SmallEar1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SmallEar1.R/SmallEar2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SmallEar1.R/SmallEar2.R/SmallEarEnd.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SmallEar1.R/SmallEar2.R/SmallEarEnd.R/SmallEarEnd.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SmallEar1.R/SmallEar3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/SmallEar1.R/SmallEar3.R/SmallEar3.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Throat.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Throat.1/Throat.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Throat.2
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Throat.2/ThoatMid.7
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/Throat.2/ThoatMid.7/ThoatMid.7_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/TongueStart.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/TongueStart.1/Tongue.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/TongueStart.1/Tongue.1/Tongue.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/TongueStart.1/TongueMid.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/TongueStart.1/TongueMid.1/Tongue.2
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/TongueStart.1/TongueMid.1/Tongue.2/Tongue.2_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/TongueStart.1/TongueMid.2
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/TongueStart.1/TongueMid.2/Tongue.3
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/TongueStart.1/TongueMid.2/Tongue.3/Tongue.3_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/TongueStart.1/TongueTip.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Jaw.1/TongueStart.1/TongueTip.1/TongueTip.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip.8
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip.8/Lip7.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip.8/Lip7.L/Lip7.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip.8/Lip7.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip.8/Lip7.R/Lip7.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip2.L/Bone.123.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip2.L/Bone.123.L/Bone.123.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip2.R/Bone.123.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip2.R/Bone.123.R/Bone.123.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip3.L/Bone.127.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip3.L/Bone.127.L/Bone.127.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip3.R/Bone.127.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip3.R/Bone.127.R/Bone.127.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip4.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip4.L/Bone.164.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip4.L/Bone.164.L/Bone.164.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip4.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip4.R/Bone.164.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip4.R/Bone.164.R/Bone.164.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip5.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip5.L/Bone.166.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip5.L/Bone.166.L/Bone.166.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip5.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip5.R/Bone.166.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip5.R/Bone.166.R/Bone.166.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip6.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip6.L/Lip6.L.001.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip6.L/Lip6.L.001.L/Lip6.L.001.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip6.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip6.R/Lip6.L.001.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Lip6.R/Lip6.L.001.R/Lip6.L.001.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/LipCorner.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/LipCorner.L/Lip1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/LipCorner.L/Lip1.L/Bone.122.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/LipCorner.L/Lip1.L/Bone.122.L/Bone.122.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/LipCorner.L/Lip9.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/LipCorner.L/Lip9.L/Bone.124.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/LipCorner.L/Lip9.L/Bone.124.L/Bone.124.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/LipCorner.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/LipCorner.R/Lip1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/LipCorner.R/Lip1.R/Bone.122.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/LipCorner.R/Lip1.R/Bone.122.R/Bone.122.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/LipCorner.R/Lip9.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/LipCorner.R/Lip9.R/Bone.124.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/LipCorner.R/Lip9.R/Bone.124.R/Bone.124.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.1/Nose.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.2
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.2/Bone.156
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.2/Bone.156/Bone.156_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Bone.125
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Bone.125/Bone.125_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril1.L/Bone.126.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril1.L/Bone.126.L/Bone.126.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril1.R/Bone.126.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril1.R/Bone.126.R/Bone.126.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril2.L/Bone.128.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril2.L/Bone.128.L/Bone.128.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril2.R/Bone.128.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril2.R/Bone.128.R/Bone.128.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril3.L/Nostril3.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril3.R/Nostril3.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril4.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril4.L/Nostril4.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril4.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril4.R/Nostril4.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril5.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril5.L/Nostril5.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril5.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Nose.3/Nostril5.R/Nostril5.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Retract.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Retract.1/Retract.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Slit.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Slit.1/Slit.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Snarl.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/Snarl.1/Snarl.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/TopEarStart.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/TopEarStart.L/TopEar.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/TopEarStart.L/TopEar.L/TopEarEnd.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/TopEarStart.L/TopEar.L/TopEarEnd.L/TopEarEnd.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/TopEarStart.L/TopEarStretch.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/TopEarStart.L/TopEarStretch.L/TopEarStretch.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/TopEarStart.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/TopEarStart.R/TopEar.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/TopEarStart.R/TopEar.R/TopEarEnd.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/TopEarStart.R/TopEar.R/TopEarEnd.R/TopEarEnd.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/TopEarStart.R/TopEarStretch.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Head.1/TopEarStart.R/TopEarStretch.R/TopEarStretch.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Throat.3
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Throat.3/ThroatMid.6
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/Throat.3/ThroatMid.6/ThroatMid.6_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/TopNeckEnd.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/HeadControl.1/TopNeckEnd.1/TopNeckEnd.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/NeckStart.1
+    m_Weight: 1
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/NeckStart.1/neck.2
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/NeckStart.1/neck.2/neck.2_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/NeckStart.1/neckFull.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/NeckStart.1/neckFull.1/neckFull.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Ribs.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Ribs.L/Ribs.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Ribs.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Ribs.R/Ribs.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Shoulder.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Shoulder.L/Elbow.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Shoulder.L/Elbow.L/LowerLeg.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Shoulder.L/Elbow.L/LowerLeg.L/LowerLeg.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Shoulder.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Shoulder.R/Elbow.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Shoulder.R/Elbow.R/LowerLeg.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Shoulder.R/Elbow.R/LowerLeg.R/LowerLeg.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/StomachStart.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/StomachStart.1/StomachStart.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Sup6.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Sup6.L/Sup7.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Sup6.L/Sup7.L/Sup8.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Sup6.L/Sup7.L/Sup8.L/Sup9.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Sup6.L/Sup7.L/Sup8.L/Sup9.L/Sup10.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Sup6.L/Sup7.L/Sup8.L/Sup9.L/Sup10.L/Sup11.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Sup6.L/Sup7.L/Sup8.L/Sup9.L/Sup10.L/Sup11.L/Sup11.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Sup6.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Sup6.R/Sup7.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Sup6.R/Sup7.R/Sup8.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Sup6.R/Sup7.R/Sup8.R/Sup9.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Sup6.R/Sup7.R/Sup8.R/Sup9.R/Sup10.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Sup6.R/Sup7.R/Sup8.R/Sup9.R/Sup10.R/Sup11.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/Sup6.R/Sup7.R/Sup8.R/Sup9.R/Sup10.R/Sup11.R/Sup11.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/ThroatStart.1
+    m_Weight: 1
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/ThroatStart.1/ThroatFull.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/ThroatStart.1/ThroatFull.1/ThroatFull.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/ThroatStart.1/ThroatMid.2
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/ThroatStart.1/ThroatMid.2/ThroatMid.2_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/TopBackStart.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/TopBackStart.1/TopBackStart.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/TopNeckStart.1
+    m_Weight: 1
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/TopNeckStart.1/FullTopNeck.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/TopNeckStart.1/FullTopNeck.1/FullTopNeck.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/TopNeckStart.1/TopNeck.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/TopNeckStart.1/TopNeck.1/TopNeck.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingFold.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingFold.L/WingFold.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingFold.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingFold.R/WingFold.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/SMem5.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/SMem5.L/Mem1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/SMem5.L/Mem1.L/SMem6.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/SMem5.L/Mem1.L/SMem6.L/Mem2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/SMem5.L/Mem1.L/SMem6.L/Mem2.L/TiP9.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/SMem5.L/Mem1.L/SMem6.L/Mem2.L/TiP9.L/TiP9.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/SMem3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/SMem3.L/Mem3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/SMem3.L/Mem3.L/SMem4.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/SMem3.L/Mem3.L/SMem4.L/Mem4.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/SMem3.L/Mem3.L/SMem4.L/Mem4.L/TIP8.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/SMem3.L/Mem3.L/SMem4.L/Mem4.L/TIP8.L/TIP8.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/SMem1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/SMem1.L/Mem5.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/SMem1.L/Mem5.L/SMem2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/SMem1.L/Mem5.L/SMem2.L/Mem6.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/SMem1.L/Mem5.L/SMem2.L/Mem6.L/Tip7.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/SMem1.L/Mem5.L/SMem2.L/Mem6.L/Tip7.L/Tip7.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/Knuckle5.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/Knuckle5.L/Bone.083.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/Knuckle5.L/Bone.083.L/Bone.084.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/Knuckle5.L/Bone.083.L/Bone.084.L/Bone.087.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/Knuckle5.L/Bone.083.L/Bone.084.L/Bone.087.L/Mem10.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/Knuckle5.L/Bone.083.L/Bone.084.L/Bone.087.L/Mem10.L/Tip5.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/Knuckle5.L/Bone.083.L/Bone.084.L/Bone.087.L/Mem10.L/Tip5.L/Tip5.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/Knuckle6.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/Knuckle6.L/Bone.089.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/Knuckle6.L/Bone.089.L/Bone.090.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/Knuckle6.L/Bone.089.L/Bone.090.L/Bone.093.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/Knuckle6.L/Bone.089.L/Bone.090.L/Bone.093.L/Mem7.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/Knuckle6.L/Bone.089.L/Bone.090.L/Bone.093.L/Mem7.L/Tip6.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/Knuckle6.L/Bone.089.L/Bone.090.L/Bone.093.L/Mem7.L/Tip6.L/Tip6.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/SMem1.L.001.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/SMem1.L.001.L/Mem8.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/SMem1.L.001.L/Mem8.L/SMem2.L.001.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/SMem1.L.001.L/Mem8.L/SMem2.L.001.L/Mem9.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/SMem1.L.001.L/Mem8.L/SMem2.L.001.L/Mem9.L/MTip5.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/SMem1.L.001.L/Mem8.L/SMem2.L.001.L/Mem9.L/MTip5.L/MTip5.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/SMem1.L.002.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/SMem1.L.002.L/Mem11.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/SMem1.L.002.L/Mem11.L/SMem2.L.002.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/SMem1.L.002.L/Mem11.L/SMem2.L.002.L/Mem12.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/SMem1.L.002.L/Mem11.L/SMem2.L.002.L/Mem12.L/MTip4.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/SMem1.L.002.L/Mem11.L/SMem2.L.002.L/Mem12.L/MTip4.L/MTip4.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/Knuckle3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/Knuckle3.L/Bone.069.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/Knuckle3.L/Bone.069.L/Bone.070.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/Knuckle3.L/Bone.069.L/Bone.070.L/Bone.080.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/Knuckle3.L/Bone.069.L/Bone.070.L/Bone.080.L/Mem16.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/Knuckle3.L/Bone.069.L/Bone.070.L/Bone.080.L/Mem16.L/Tip3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/Knuckle3.L/Bone.069.L/Bone.070.L/Bone.080.L/Mem16.L/Tip3.L/Tip3.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/Knuckle4.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/Knuckle4.L/Bone.074.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/Knuckle4.L/Bone.074.L/Bone.075.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/Knuckle4.L/Bone.074.L/Bone.075.L/Bone.081.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/Knuckle4.L/Bone.074.L/Bone.075.L/Bone.081.L/Mem13.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/Knuckle4.L/Bone.074.L/Bone.075.L/Bone.081.L/Mem13.L/Tip4.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/Knuckle4.L/Bone.074.L/Bone.075.L/Bone.081.L/Mem13.L/Tip4.L/Tip4.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/SMem1.L.003.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/SMem1.L.003.L/Mem14.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/SMem1.L.003.L/Mem14.L/SMem2.L.003.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/SMem1.L.003.L/Mem14.L/SMem2.L.003.L/Mem15.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/SMem1.L.003.L/Mem14.L/SMem2.L.003.L/Mem15.L/MTip3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/SMem1.L.003.L/Mem14.L/SMem2.L.003.L/Mem15.L/MTip3.L/MTip3.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/Knuckle1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/Knuckle1.L/Bone.059.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/Knuckle1.L/Bone.059.L/Bone.060.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/Knuckle1.L/Bone.059.L/Bone.060.L/Bone.078.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/Knuckle1.L/Bone.059.L/Bone.060.L/Bone.078.L/Mem22.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/Knuckle1.L/Bone.059.L/Bone.060.L/Bone.078.L/Mem22.L/Tip1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/Knuckle1.L/Bone.059.L/Bone.060.L/Bone.078.L/Mem22.L/Tip1.L/Tip1.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/Knuckle2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/Knuckle2.L/Bone.064.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/Knuckle2.L/Bone.064.L/Bone.065.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/Knuckle2.L/Bone.064.L/Bone.065.L/Bone.079.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/Knuckle2.L/Bone.064.L/Bone.065.L/Bone.079.L/Mem19.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/Knuckle2.L/Bone.064.L/Bone.065.L/Bone.079.L/Mem19.L/Tip2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/Knuckle2.L/Bone.064.L/Bone.065.L/Bone.079.L/Mem19.L/Tip2.L/Tip2.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/SMem1.L.004.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/SMem1.L.004.L/Mem17.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/SMem1.L.004.L/Mem17.L/SMem2.L.004.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/SMem1.L.004.L/Mem17.L/SMem2.L.004.L/Mem18.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/SMem1.L.004.L/Mem17.L/SMem2.L.004.L/Mem18.L/MTip2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/SMem1.L.004.L/Mem17.L/SMem2.L.004.L/Mem18.L/MTip2.L/MTip2.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/SMem1.L.005.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/SMem1.L.005.L/Mem20.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/SMem1.L.005.L/Mem20.L/SMem2.L.005.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/SMem1.L.005.L/Mem20.L/SMem2.L.005.L/Mem21.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/SMem1.L.005.L/Mem20.L/SMem2.L.005.L/Mem21.L/MTip1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.L/WElbow.L/WElbow2.L/WArm.L/WHand1.L/WHand2.L/WHand3.L/SMem1.L.005.L/Mem20.L/SMem2.L.005.L/Mem21.L/MTip1.L/MTip1.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/SMem5.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/SMem5.R/Mem1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/SMem5.R/Mem1.R/SMem6.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/SMem5.R/Mem1.R/SMem6.R/Mem2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/SMem5.R/Mem1.R/SMem6.R/Mem2.R/TiP9.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/SMem5.R/Mem1.R/SMem6.R/Mem2.R/TiP9.R/TiP9.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/SMem3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/SMem3.R/Mem3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/SMem3.R/Mem3.R/SMem4.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/SMem3.R/Mem3.R/SMem4.R/Mem4.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/SMem3.R/Mem3.R/SMem4.R/Mem4.R/TIP8.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/SMem3.R/Mem3.R/SMem4.R/Mem4.R/TIP8.R/TIP8.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/SMem1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/SMem1.R/Mem5.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/SMem1.R/Mem5.R/SMem2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/SMem1.R/Mem5.R/SMem2.R/Mem6.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/SMem1.R/Mem5.R/SMem2.R/Mem6.R/Tip7.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/SMem1.R/Mem5.R/SMem2.R/Mem6.R/Tip7.R/Tip7.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/Knuckle5.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/Knuckle5.R/Bone.083.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/Knuckle5.R/Bone.083.R/Bone.084.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/Knuckle5.R/Bone.083.R/Bone.084.R/Bone.087.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/Knuckle5.R/Bone.083.R/Bone.084.R/Bone.087.R/Mem10.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/Knuckle5.R/Bone.083.R/Bone.084.R/Bone.087.R/Mem10.R/Tip5.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/Knuckle5.R/Bone.083.R/Bone.084.R/Bone.087.R/Mem10.R/Tip5.R/Tip5.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/Knuckle6.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/Knuckle6.R/Bone.089.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/Knuckle6.R/Bone.089.R/Bone.090.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/Knuckle6.R/Bone.089.R/Bone.090.R/Bone.093.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/Knuckle6.R/Bone.089.R/Bone.090.R/Bone.093.R/Mem7.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/Knuckle6.R/Bone.089.R/Bone.090.R/Bone.093.R/Mem7.R/Tip6.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/Knuckle6.R/Bone.089.R/Bone.090.R/Bone.093.R/Mem7.R/Tip6.R/Tip6.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/SMem1.L.001.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/SMem1.L.001.R/Mem8.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/SMem1.L.001.R/Mem8.R/SMem2.L.001.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/SMem1.L.001.R/Mem8.R/SMem2.L.001.R/Mem9.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/SMem1.L.001.R/Mem8.R/SMem2.L.001.R/Mem9.R/MTip5.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/SMem1.L.001.R/Mem8.R/SMem2.L.001.R/Mem9.R/MTip5.R/MTip5.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/SMem1.L.002.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/SMem1.L.002.R/Mem11.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/SMem1.L.002.R/Mem11.R/SMem2.L.002.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/SMem1.L.002.R/Mem11.R/SMem2.L.002.R/Mem12.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/SMem1.L.002.R/Mem11.R/SMem2.L.002.R/Mem12.R/MTip4.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/SMem1.L.002.R/Mem11.R/SMem2.L.002.R/Mem12.R/MTip4.R/MTip4.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/Knuckle3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/Knuckle3.R/Bone.069.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/Knuckle3.R/Bone.069.R/Bone.070.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/Knuckle3.R/Bone.069.R/Bone.070.R/Bone.080.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/Knuckle3.R/Bone.069.R/Bone.070.R/Bone.080.R/Mem16.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/Knuckle3.R/Bone.069.R/Bone.070.R/Bone.080.R/Mem16.R/Tip3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/Knuckle3.R/Bone.069.R/Bone.070.R/Bone.080.R/Mem16.R/Tip3.R/Tip3.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/Knuckle4.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/Knuckle4.R/Bone.074.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/Knuckle4.R/Bone.074.R/Bone.075.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/Knuckle4.R/Bone.074.R/Bone.075.R/Bone.081.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/Knuckle4.R/Bone.074.R/Bone.075.R/Bone.081.R/Mem13.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/Knuckle4.R/Bone.074.R/Bone.075.R/Bone.081.R/Mem13.R/Tip4.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/Knuckle4.R/Bone.074.R/Bone.075.R/Bone.081.R/Mem13.R/Tip4.R/Tip4.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/SMem1.L.003.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/SMem1.L.003.R/Mem14.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/SMem1.L.003.R/Mem14.R/SMem2.L.003.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/SMem1.L.003.R/Mem14.R/SMem2.L.003.R/Mem15.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/SMem1.L.003.R/Mem14.R/SMem2.L.003.R/Mem15.R/MTip3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/SMem1.L.003.R/Mem14.R/SMem2.L.003.R/Mem15.R/MTip3.R/MTip3.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/Knuckle1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/Knuckle1.R/Bone.059.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/Knuckle1.R/Bone.059.R/Bone.060.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/Knuckle1.R/Bone.059.R/Bone.060.R/Bone.078.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/Knuckle1.R/Bone.059.R/Bone.060.R/Bone.078.R/Mem22.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/Knuckle1.R/Bone.059.R/Bone.060.R/Bone.078.R/Mem22.R/Tip1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/Knuckle1.R/Bone.059.R/Bone.060.R/Bone.078.R/Mem22.R/Tip1.R/Tip1.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/Knuckle2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/Knuckle2.R/Bone.064.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/Knuckle2.R/Bone.064.R/Bone.065.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/Knuckle2.R/Bone.064.R/Bone.065.R/Bone.079.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/Knuckle2.R/Bone.064.R/Bone.065.R/Bone.079.R/Mem19.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/Knuckle2.R/Bone.064.R/Bone.065.R/Bone.079.R/Mem19.R/Tip2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/Knuckle2.R/Bone.064.R/Bone.065.R/Bone.079.R/Mem19.R/Tip2.R/Tip2.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/SMem1.L.004.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/SMem1.L.004.R/Mem17.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/SMem1.L.004.R/Mem17.R/SMem2.L.004.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/SMem1.L.004.R/Mem17.R/SMem2.L.004.R/Mem18.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/SMem1.L.004.R/Mem17.R/SMem2.L.004.R/Mem18.R/MTip2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/SMem1.L.004.R/Mem17.R/SMem2.L.004.R/Mem18.R/MTip2.R/MTip2.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/SMem1.L.005.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/SMem1.L.005.R/Mem20.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/SMem1.L.005.R/Mem20.R/SMem2.L.005.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/SMem1.L.005.R/Mem20.R/SMem2.L.005.R/Mem21.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/SMem1.L.005.R/Mem20.R/SMem2.L.005.R/Mem21.R/MTip1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/ChestControl.1/WingShoulder.R/WElbow.R/WElbow2.R/WArm.R/WHand1.R/WHand2.R/WHand3.R/SMem1.L.005.R/Mem20.R/SMem2.L.005.R/Mem21.R/MTip1.R/MTip1.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Back.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Back.1/Back.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/FullBack.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/FullBack.1/FullBack.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/BLegSup.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/BLegSup.1/BLegSup.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/MidFinFold.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/MidFinFold.L/MidFinFold.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/MidFinFold.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/MidFinFold.R/MidFinFold.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/Tail.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/Tail.1/Tail.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.4
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.4/Tail.6
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.4/Tail.6/Tail.6_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.5
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.5/FinFold.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.5/FinFold.L/FinFold.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.5/FinFold.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.5/FinFold.R/FinFold.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.5/TailControl.6
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.5/TailControl.6/TailControl.6_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS1.L/F1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS1.L/F1.L/F2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS1.L/F1.L/F2.L/FB1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS1.L/F1.L/F2.L/FB1.L/FTip1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS1.L/F1.L/F2.L/FB1.L/FTip1.L/FTip1.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS1.R/F1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS1.R/F1.R/F2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS1.R/F1.R/F2.R/FB1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS1.R/F1.R/F2.R/FB1.R/FTip1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS1.R/F1.R/F2.R/FB1.R/FTip1.R/FTip1.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS2.L/F3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS2.L/F3.L/F4.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS2.L/F3.L/F4.L/FB2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS2.L/F3.L/F4.L/FB2.L/FTip2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS2.L/F3.L/F4.L/FB2.L/FTip2.L/FTip2.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS2.R/F3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS2.R/F3.R/F4.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS2.R/F3.R/F4.R/FB2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS2.R/F3.R/F4.R/FB2.R/FTip2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/FS2.R/F3.R/F4.R/FB2.R/FTip2.R/FTip2.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS3.L/F5.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS3.L/F5.L/F6.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS3.L/F5.L/F6.L/FB3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS3.L/F5.L/F6.L/FB3.L/FinTip3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS3.L/F5.L/F6.L/FB3.L/FinTip3.L/FinTip3.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS3.R/F5.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS3.R/F5.R/F6.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS3.R/F5.R/F6.R/FB3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS3.R/F5.R/F6.R/FB3.R/FinTip3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS3.R/F5.R/F6.R/FB3.R/FinTip3.R/FinTip3.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS4.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS4.L/F7.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS4.L/F7.L/F8.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS4.L/F7.L/F8.L/FB4.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS4.L/F7.L/F8.L/FB4.L/FTip4.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS4.L/F7.L/F8.L/FB4.L/FTip4.L/FTip4.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS4.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS4.R/F7.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS4.R/F7.R/F8.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS4.R/F7.R/F8.R/FB4.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS4.R/F7.R/F8.R/FB4.R/FTip4.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/FS4.R/F7.R/F8.R/FB4.R/FTip4.R/FTip4.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/TailControl.9
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/TailControl.9/FS5.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/TailControl.9/FS5.L/F9.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/TailControl.9/FS5.L/F9.L/F10.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/TailControl.9/FS5.L/F9.L/F10.L/FB5.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/TailControl.9/FS5.L/F9.L/F10.L/FB5.L/FTip5.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/TailControl.9/FS5.L/F9.L/F10.L/FB5.L/FTip5.L/FTip5.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/TailControl.9/FS5.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/TailControl.9/FS5.R/F9.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/TailControl.9/FS5.R/F9.R/F10.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/TailControl.9/FS5.R/F9.R/F10.R/FB5.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/TailControl.9/FS5.R/F9.R/F10.R/FB5.R/FTip5.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/TailControl.9/FS5.R/F9.R/F10.R/FB5.R/FTip5.R/FTip5.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/TailControl.9/TailControl.010
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/TailControl.9/TailControl.010/TailControl.11
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailControl.7/TailControl.8/TailControl.9/TailControl.010/TailControl.11/TailControl.11_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/BigTail.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/BigTail.1/BigTail.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m1.L/Mbend2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m1.L/Mbend2.L/WebTip1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m1.L/Mbend2.L/WebTip1.L/WebTip1.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m1.R/Mbend2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m1.R/Mbend2.R/WebTip1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m1.R/Mbend2.R/WebTip1.R/WebTip1.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m2.L/Mbend4.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m2.L/Mbend4.L/WebTip2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m2.L/Mbend4.L/WebTip2.L/WebTip2.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m2.R/Mbend4.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m2.R/Mbend4.R/WebTip2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m2.R/Mbend4.R/WebTip2.R/WebTip2.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m3.L/Mbend6.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m3.L/Mbend6.L/WebTip3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m3.L/Mbend6.L/WebTip3.L/WebTip3.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m3.R/Mbend6.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m3.R/Mbend6.R/WebTip3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/m3.R/Mbend6.R/WebTip3.R/WebTip3.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L/mF1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L/mF1.L/mF2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L/mF1.L/mF2.L/m4.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L/mF1.L/mF2.L/m4.L/Mbend1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L/mF1.L/mF2.L/m4.L/Mbend1.L/MFinTip1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L/mF1.L/mF2.L/m4.L/Mbend1.L/MFinTip1.L/MFinTip1.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.001.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.001.L/mF3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.001.L/mF3.L/mF4.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.001.L/mF3.L/mF4.L/m5.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.001.L/mF3.L/mF4.L/m5.L/Mbend3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.001.L/mF3.L/mF4.L/m5.L/Mbend3.L/MFinTip2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.001.L/mF3.L/mF4.L/m5.L/Mbend3.L/MFinTip2.L/MFinTip2.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.001.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.001.R/mF3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.001.R/mF3.R/mF4.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.001.R/mF3.R/mF4.R/m5.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.001.R/mF3.R/mF4.R/m5.R/Mbend3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.001.R/mF3.R/mF4.R/m5.R/Mbend3.R/MFinTip2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.001.R/mF3.R/mF4.R/m5.R/Mbend3.R/MFinTip2.R/MFinTip2.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.002.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.002.L/mF5.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.002.L/mF5.L/mf6.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.002.L/mF5.L/mf6.L/m6.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.002.L/mF5.L/mf6.L/m6.L/Mbend5.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.002.L/mF5.L/mf6.L/m6.L/Mbend5.L/MFinTip3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.002.L/mF5.L/mf6.L/m6.L/Mbend5.L/MFinTip3.L/MFinTip3.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.002.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.002.R/mF5.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.002.R/mF5.R/mf6.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.002.R/mF5.R/mf6.R/m6.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.002.R/mF5.R/mf6.R/m6.R/Mbend5.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.002.R/mF5.R/mf6.R/m6.R/Mbend5.R/MFinTip3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.L.002.R/mF5.R/mf6.R/m6.R/Mbend5.R/MFinTip3.R/MFinTip3.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.R/mF1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.R/mF1.R/mF2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.R/mF1.R/mF2.R/m4.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.R/mF1.R/mF2.R/m4.R/Mbend1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.R/mF1.R/mF2.R/m4.R/Mbend1.R/MFinTip1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/mFin1.R/mF1.R/mF2.R/m4.R/Mbend1.R/MFinTip1.R/MFinTip1.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/Tail.2
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/FullTailRot.1/TailStart.1/Tail.2/Tail.2_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/Hip.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/Hip.L/Thigh.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/Hip.L/Thigh.L/Knee.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/Hip.L/Thigh.L/Knee.L/Shin.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/Hip.L/Thigh.L/Knee.L/Shin.L/Shin.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/Hip.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/Hip.R/Thigh.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/Hip.R/Thigh.R/Knee.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/Hip.R/Thigh.R/Knee.R/Shin.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/Hip.R/Thigh.R/Knee.R/Shin.R/Shin.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/Sup12.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/Sup12.L/Sup13.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/Sup12.L/Sup13.L/Sup14.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/Sup12.L/Sup13.L/Sup14.L/Sup15.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/Sup12.L/Sup13.L/Sup14.L/Sup15.L/Sup15.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/Sup12.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/Sup12.R/Sup13.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/Sup12.R/Sup13.R/Sup14.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/Sup12.R/Sup13.R/Sup14.R/Sup15.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/Hips.1/Sup12.R/Sup13.R/Sup14.R/Sup15.R/Sup15.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/StomachEnd.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/StomachEnd.1/Stomach.2
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/StomachEnd.1/Stomach.2/Stomach.2_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/StomachEnd.1/StomachFull.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/StomachEnd.1/StomachFull.1/StomachFull.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/TopBackEnd.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/TopBackEnd.1/TopBack2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/TopBackEnd.1/TopBack2.L/TopBack2.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/TopBackEnd.1/TopBackFull.1
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/BodyControl.1/HipsControl.1/TopBackEnd.1/TopBackFull.1/TopBackFull.1_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/ShoulderPoint.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/ShoulderPoint.L/ShoulderPoint.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/FFootRot.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/FFootRot.L/FFootRot.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/FFootSup1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/FFootSup1.L/FFootSup1.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/FFootSup2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/FFootSup2.L/FSup2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/FFootSup2.L/FSup2.L/FSup2.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/FFootSup3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/FFootSup3.L/FSup1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/FFootSup3.L/FSup1.L/FSup1.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/Toe1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/Toe1.L/Claw1.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/Toe1.L/Claw1.L/Claw2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/Toe1.L/Claw1.L/Claw2.L/Claw2.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/Toe2.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/Toe2.L/Claw3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/Toe2.L/Claw3.L/Claw4.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/Toe2.L/Claw3.L/Claw4.L/Claw4.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/Toe3.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/Toe3.L/Claw5.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/Toe3.L/Claw5.L/Claw6.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/Toe3.L/Claw5.L/Claw6.L/Claw6.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/Toe4.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/Toe4.L/Claw7.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/Toe4.L/Claw7.L/Claw8.L
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.L/Wrist.L/Foot.L/Toe4.L/Claw7.L/Claw8.L/Claw8.L_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/ShoulderPoint.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/ShoulderPoint.R/ShoulderPoint.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/FFootRot.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/FFootRot.R/FFootRot.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/FFootSup1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/FFootSup1.R/FFootSup1.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/FFootSup2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/FFootSup2.R/FSup2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/FFootSup2.R/FSup2.R/FSup2.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/FFootSup3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/FFootSup3.R/FSup1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/FFootSup3.R/FSup1.R/FSup1.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/Toe1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/Toe1.R/Claw1.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/Toe1.R/Claw1.R/Claw2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/Toe1.R/Claw1.R/Claw2.R/Claw2.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/Toe2.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/Toe2.R/Claw3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/Toe2.R/Claw3.R/Claw4.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/Toe2.R/Claw3.R/Claw4.R/Claw4.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/Toe3.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/Toe3.R/Claw5.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/Toe3.R/Claw5.R/Claw6.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/Toe3.R/Claw5.R/Claw6.R/Claw6.R_end
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/Toe4.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/Toe4.R/Claw7.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/Toe4.R/Claw7.R/Claw8.R
+    m_Weight: 0
+  - m_Path: Armature/MainController.1/FFootIK.R/Wrist.R/Foot.R/Toe4.R/Claw7.R/Claw8.R/Claw8.R_end
+    m_Weight: 0
+  - m_Path: Armature/MidBack.002
+    m_Weight: 0
+  - m_Path: Armature/MidBack.002/MidBack.1
+    m_Weight: 0
+  - m_Path: Armature/MidBack.002/MidBack.1/Back.2
+    m_Weight: 0
+  - m_Path: Armature/MidBack.002/MidBack.1/Back.2/Back.2_end
+    m_Weight: 0
+  - m_Path: Armature/MidBack.002/MidBack.1/Side.L
+    m_Weight: 0
+  - m_Path: Armature/MidBack.002/MidBack.1/Side.L/Side.L_end
+    m_Weight: 0
+  - m_Path: Armature/MidBack.002/MidBack.1/Side.R
+    m_Weight: 0
+  - m_Path: Armature/MidBack.002/MidBack.1/Side.R/Side.R_end
+    m_Weight: 0
+  - m_Path: Armature/neckMid.2
+    m_Weight: 1
+  - m_Path: Armature/neckMid.2/neckMid.1
+    m_Weight: 0
+  - m_Path: Armature/neckMid.2/neckMid.1/neck.1
+    m_Weight: 0
+  - m_Path: Armature/neckMid.2/neckMid.1/neck.1/neck.1_end
+    m_Weight: 0
+  - m_Path: Armature/neckMid.004
+    m_Weight: 1
+  - m_Path: Armature/neckMid.004/TopNeckMid.1
+    m_Weight: 0
+  - m_Path: Armature/neckMid.004/TopNeckMid.1/TopNeck.2
+    m_Weight: 0
+  - m_Path: Armature/neckMid.004/TopNeckMid.1/TopNeck.2/TopNeck.2_end
+    m_Weight: 0
+  - m_Path: Armature/StomachMid.2
+    m_Weight: 0
+  - m_Path: Armature/StomachMid.2/StomachMid.1
+    m_Weight: 0
+  - m_Path: Armature/StomachMid.2/StomachMid.1/Stomach.1
+    m_Weight: 0
+  - m_Path: Armature/StomachMid.2/StomachMid.1/Stomach.1/Stomach.1_end
+    m_Weight: 0
+  - m_Path: Armature/StomachMid.003
+    m_Weight: 0
+  - m_Path: Armature/StomachMid.003/TopBackMid.1
+    m_Weight: 0
+  - m_Path: Armature/StomachMid.003/TopBackMid.1/TopBack.1
+    m_Weight: 0
+  - m_Path: Armature/StomachMid.003/TopBackMid.1/TopBack.1/TopBack.1_end
+    m_Weight: 0
+  - m_Path: Armature/TailMid.1
+    m_Weight: 0
+  - m_Path: Armature/TailMid.1/TailControl.1
+    m_Weight: 0
+  - m_Path: Armature/TailMid.1/TailControl.1/Tail.3
+    m_Weight: 0
+  - m_Path: Armature/TailMid.1/TailControl.1/Tail.3/Tail.3_end
+    m_Weight: 0
+  - m_Path: Armature/TailMid.2
+    m_Weight: 0
+  - m_Path: Armature/TailMid.2/TailControl.2
+    m_Weight: 0
+  - m_Path: Armature/TailMid.2/TailControl.2/Tail.4
+    m_Weight: 0
+  - m_Path: Armature/TailMid.2/TailControl.2/Tail.4/Tail.4_end
+    m_Weight: 0
+  - m_Path: Armature/TailMid.3
+    m_Weight: 0
+  - m_Path: Armature/TailMid.3/TailControl.3
+    m_Weight: 0
+  - m_Path: Armature/TailMid.3/TailControl.3/Tail.5
+    m_Weight: 0
+  - m_Path: Armature/TailMid.3/TailControl.3/Tail.5/Tail.5_end
+    m_Weight: 0
+  - m_Path: Armature/ThroatMid.4
+    m_Weight: 0
+  - m_Path: Armature/ThroatMid.4/ThroatMid.1
+    m_Weight: 0
+  - m_Path: Armature/ThroatMid.4/ThroatMid.1/ThroatMid.5
+    m_Weight: 0
+  - m_Path: Armature/ThroatMid.4/ThroatMid.1/ThroatMid.5/ThroatMid.5_end
+    m_Weight: 0
+  - m_Path: Body
+    m_Weight: 0
+  - m_Path: EarBumps
+    m_Weight: 0
+  - m_Path: EyeBoolean
+    m_Weight: 0
+  - m_Path: Eyes
+    m_Weight: 0
+  - m_Path: GlassEyes
+    m_Weight: 0
+  - m_Path: Gums
+    m_Weight: 0
+  - m_Path: Teeth
+    m_Weight: 0
+  - m_Path: Tongue
+    m_Weight: 0
