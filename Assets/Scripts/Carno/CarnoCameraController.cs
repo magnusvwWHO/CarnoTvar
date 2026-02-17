@@ -75,6 +75,7 @@ public class CarnoCameraController : MonoBehaviour
 
             Quaternion desiredRot = Quaternion.Euler(pitch, yaw, 0f);
             Vector3 desiredPos = target.position + Vector3.up * height - (desiredRot * Vector3.forward) * distance;
+            Vector3 pivot = target.position + Vector3.up * height;
 
             transform.position = Vector3.Lerp(transform.position, desiredPos, positionSmooth * Time.deltaTime);
             transform.rotation = Quaternion.Slerp(transform.rotation, desiredRot, rotationSmooth * Time.deltaTime);

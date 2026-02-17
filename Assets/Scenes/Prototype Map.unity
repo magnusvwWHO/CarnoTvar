@@ -119,6 +119,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &466326387 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3109169105909423828, guid: 2240fab6b980d744ab811aee8869a406, type: 3}
+  m_PrefabInstance: {fileID: 4899747575760801851}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &646531683 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7725550455073907413, guid: fc5a676d2c90b3d4f8a22e369c35950d, type: 3}
@@ -684,6 +689,35 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5829819204910043695, guid: 2240fab6b980d744ab811aee8869a406, type: 3}
   m_PrefabInstance: {fileID: 4899747575760801851}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1656880494
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 466326387}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6948f8383e19e948bfa7e3e1dd9b694, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NFCameraController
+  target: {fileID: 2006850729}
+  distance: 4.5
+  height: 1.6
+  sensitivityMouse: 0.12
+  sensitivityGamepad: 2
+  minPitch: -35
+  maxPitch: 70
+  minDistance: 4
+  maxDistance: 30
+  zoomSpeed: 2
+  positionSmooth: 12
+  rotationSmooth: 12
+  collisionMask:
+    serializedVersion: 2
+    m_Bits: 183
+  sphereRadius: 0.25
+  collisionOffset: 0.1
 --- !u!1 &1735353774
 GameObject:
   m_ObjectHideFlags: 0
@@ -5138,6 +5172,10 @@ PrefabInstance:
       propertyPath: m_ActionEvents.Array.data[4].m_PersistentCalls.m_Calls.Array.size
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4551458255517937958, guid: 2240fab6b980d744ab811aee8869a406, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7862512487788767468, guid: 2240fab6b980d744ab811aee8869a406, type: 3}
       propertyPath: animator
       value: 
@@ -5189,7 +5227,10 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 100367974602915899, guid: 2240fab6b980d744ab811aee8869a406, type: 3}
       insertIndex: -1
       addedObject: {fileID: 800781081}
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3109169105909423828, guid: 2240fab6b980d744ab811aee8869a406, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1656880494}
   m_SourcePrefab: {fileID: 100100000, guid: 2240fab6b980d744ab811aee8869a406, type: 3}
 --- !u!1001 &7281723168207905043
 PrefabInstance:

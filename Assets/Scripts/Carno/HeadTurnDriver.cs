@@ -6,6 +6,7 @@ namespace Carno
     public class HeadTurnDriver : MonoBehaviour
     {
         private static readonly int HeadTurningAngle = Animator.StringToHash("HeadTurningAngle");
+        private static readonly int HeadTurningVertical = Animator.StringToHash("HeadTurningVertical");
 
         [Header("Refs")]
         [SerializeField] private Animator animator;
@@ -22,6 +23,11 @@ namespace Carno
         [Header("Front glance (optional)")]
         [Tooltip("Окно около 180°, где вместо разворота на 180° делаем лёгкий 'взгляд'.")]
         [SerializeField] private float frontWindow = 35f;
+        [SerializeField] private float maxPitchDown = 35f;
+        [SerializeField] private float maxPitchUp = 40f;
+        
+        [Header("Vertical (pitch)")] [SerializeField]
+        private float responsePitch = 60f;
 
         [Range(0f, 1f)]
         [SerializeField] private float frontGlanceAmount = 0.2f;
@@ -29,8 +35,8 @@ namespace Carno
         [Header("Smoothing")]
         [SerializeField] private float smoothTime = 0.08f; // меньше = быстрее, больше = плавнее
 
-        private float current;
-        private float vel;
+        private float _currentH, _currentV;
+        private float _velH, _velV;
 
         void Reset() => body = transform;
 
@@ -38,8 +44,15 @@ namespace Carno
         {
             if (!animator || !body || !cameraT) return;
 
-            // Берём только yaw направления взгляда камеры
-            Vector3 fwd = cameraT.forward;
+            // Берём направление взгляда камеры
+            Vector3 fwd3 = cameraT.forward;
+            if (fwd3.sqrMagnitude < 0.0001f) return;
+            fwd3.Normalize();
+
+            // =========================
+            // HORIZONTAL (yaw) — твой код
+            // =========================
+            Vector3 fwd = fwd3;
             fwd.y = 0f;
             if (fwd.sqrMagnitude < 0.0001f) return;
             fwd.Normalize();
@@ -50,22 +63,38 @@ namespace Carno
             float delta = Mathf.DeltaAngle(bodyYaw, camYaw); // [-180..180]
             float abs = Mathf.Abs(delta);
 
-            // Deadzone, чтобы не дрожало около 0
             if (abs < deadZoneDeg) delta = 0f;
 
-            // Основная реакция: мягкая, потому что делим на responseYaw, а не maxHeadYaw
             float normal = Mathf.Clamp(delta / responseYaw, -1f, 1f);
 
-            // Если камера "спереди" (угол близок к 180) — делаем небольшое поглядывание, а не попытку 180°
             float frontStart = 180f - frontWindow;
             float frontT = Mathf.InverseLerp(frontStart, 180f, abs); // 0..1
             float front = Mathf.Sign(delta == 0f ? 1f : delta) * (frontGlanceAmount * frontT);
 
-            float target = Mathf.Lerp(normal, front, frontT);
+            float hTarget = Mathf.Lerp(normal, front, frontT);
 
-            // Стабильное сглаживание без рывков
-            current = Mathf.SmoothDamp(current, target, ref vel, smoothTime);
-            animator.SetFloat(HeadTurningAngle, -current);
+            _currentH = Mathf.SmoothDamp(_currentH, hTarget, ref _velH, smoothTime);
+
+            // =========================
+            // VERTICAL (pitch) — добавили
+            // =========================
+            // Pitch направления камеры относительно горизонта: вверх +, вниз -
+            float pitch = Mathf.Atan2(fwd3.y, Mathf.Sqrt(fwd3.x * fwd3.x + fwd3.z * fwd3.z)) * Mathf.Rad2Deg;
+
+            if (Mathf.Abs(pitch) < deadZoneDeg) pitch = 0f;
+
+            // Ограничим вверх/вниз (обычно у головы асимметрия)
+            pitch = Mathf.Clamp(pitch, -maxPitchDown, maxPitchUp);
+
+            float vTarget = Mathf.Clamp(pitch / responsePitch, -1f, 1f);
+
+            _currentV = Mathf.SmoothDamp(_currentV, vTarget, ref _velV, smoothTime);
+
+            // =========================
+            // В Animator (- потому что у тебя было -current)
+            // =========================
+            animator.SetFloat(HeadTurningAngle, _currentH);
+            animator.SetFloat(HeadTurningVertical, _currentV);
         }
     }
 }
