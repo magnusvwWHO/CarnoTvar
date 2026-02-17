@@ -6,6 +6,7 @@ public class CarnoAnimationController : MonoBehaviour
     private static readonly int HeadTurningAngle = Animator.StringToHash("HeadTurningAngle");
     private static readonly int Bite = Animator.StringToHash("Bite");
     private static readonly int AltAction = Animator.StringToHash("AltButton");
+    private static readonly int Sit = Animator.StringToHash("Sit");
     public CharacterController characterController;
     public Animator animator;
 
@@ -46,6 +47,8 @@ public class CarnoAnimationController : MonoBehaviour
     }
     
     public void TriggerBite() => animator.SetTrigger(Bite);
+    
+    public void TriggerSit() => animator.SetTrigger(Sit);
     
     public void SetAltAction(bool value) => animator.SetBool(AltAction, value);
 }

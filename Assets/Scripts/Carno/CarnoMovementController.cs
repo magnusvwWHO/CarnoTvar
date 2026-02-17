@@ -21,7 +21,7 @@ public class CarnoMovementController : MonoBehaviour
         private PlayerInput playerInput;
 
         private InputAction _moveAction;
-        private InputAction _jumpAction;
+        private InputAction _sitAction;
         private InputAction _sprintAction;
         private InputAction _attackAction;
         private InputAction _altAction;
@@ -39,7 +39,7 @@ public class CarnoMovementController : MonoBehaviour
 
             // берём экшены по именам из PlayerControls
             _moveAction = playerInput.actions["Move"];
-            _jumpAction = playerInput.actions["Jump"];
+            _sitAction = playerInput.actions["Sit"];
             _sprintAction = playerInput.actions["Sprint"];
             _attackAction =  playerInput.actions["Attack"];
             _altAction = playerInput.actions["AltAction"];
@@ -48,7 +48,7 @@ public class CarnoMovementController : MonoBehaviour
         void OnEnable()
         {
             _moveAction.Enable();
-            _jumpAction.Enable();
+            _sitAction.Enable();
             _sprintAction.Enable();
             _attackAction.Enable();
             _altAction.Enable();
@@ -57,7 +57,7 @@ public class CarnoMovementController : MonoBehaviour
         void OnDisable()
         {
             _moveAction.Disable();
-            _jumpAction.Disable();
+            _sitAction.Disable();
             _sprintAction.Disable();
             _attackAction.Disable();
             _altAction.Disable();
@@ -107,6 +107,11 @@ public class CarnoMovementController : MonoBehaviour
             if (_attackAction.WasPressedThisFrame())
             {
                 _driver.TriggerBite();
+            }
+
+            if (_sitAction.WasPressedThisFrame())
+            {
+                _driver.TriggerSit();
             }
 
             // ONE move per frame (горизонталь + вертикаль вместе)
